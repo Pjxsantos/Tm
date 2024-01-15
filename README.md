@@ -1,4 +1,4 @@
-h1 align="center">se do Cliente 😁</h1>
+<h1 align="center">Sete do Cliente 😁</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
